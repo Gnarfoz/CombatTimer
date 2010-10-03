@@ -1,0 +1,12 @@
+## Interface: 30300
+## X-Compatible-With: 40000
+## Title: Combat Timer
+## Notes: Prints combat duration to chat after each fight
+## Notes-deDE: Spuckt nach jedem Kampf die Dauer des Kampfes (in Sekunden) im Chat aus.
+
+## Version: @project-version@.@project-abbreviated-hash@
+## Author: Gnarfoz
+## X-Email: gnarfoz@gmail.com
+## X-Category: Combat
+
+CombatTimer.lua

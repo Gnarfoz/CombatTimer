@@ -1,4 +1,4 @@
-## Interface: 40200
+## Interface: 50400
 ## Title: Combat Timer
 ## Notes: Prints combat duration to chat after each fight
 ## Notes-deDE: Spuckt nach jedem Kampf die Dauer des Kampfes (in Sekunden) im Chat aus.

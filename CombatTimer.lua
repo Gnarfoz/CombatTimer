@@ -5,6 +5,10 @@ local text
 
 if GetLocale() == "deDE" then
 	text = "Kampfdauer:"
+elseif GetLocale() == "zhCN" then
+    text = "战斗耗时:"
+elseif GetLocale() == "zhTW" then
+    text = "戰鬥耗時:"
 else
 	text = "Fight duration:"
 end

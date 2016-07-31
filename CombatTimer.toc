@@ -1,11 +1,11 @@
-## Interface: 60000
+## Interface: 70000
 ## Title: Combat Timer
 ## Notes: Prints combat duration to chat after each fight
 ## Notes-deDE: Spuckt nach jedem Kampf die Dauer des Kampfes (in Sekunden) im Chat aus.
 ## Notes-zhCN: 战斗结束后输出战斗耗时
 ## Notes-zhTW: 戰鬥結束後輸出戰鬥耗時
 
-## Version: @project-version@.@project-abbreviated-hash@
+## Version: @project-version@
 ## Author: Gnarfoz
 ## X-Email: gnarfoz@gmail.com
 ## X-Category: Combat
